@@ -4,7 +4,7 @@
   --yellow: rgb(237, 237, 32);
   --font-color: rgb(33, 33, 33);
   --font-color-light: rgb(155, 155, 155);
-  --background: rgb(255, 255, 255);
+  --background: white;
   --background--light: rgb(230, 230, 230);
 }
 
@@ -15,7 +15,8 @@
 }
 
 body {
-  background: rgb(231, 231, 231);
+  /* background: rgb(231, 231, 231); */
+  background: black;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
 }
